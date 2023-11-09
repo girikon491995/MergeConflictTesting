@@ -3,7 +3,6 @@ public class Add_Demo {
     public Integer b;
     public Integer c;
     public Integer d;
-
     public Integer addt(){
         c=a+b; 
         system.debug('the result is'+c);
